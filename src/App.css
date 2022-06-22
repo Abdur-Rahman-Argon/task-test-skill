@@ -24,6 +24,10 @@
   color: white;
 }
 
+.text-style {
+  font-family: "Yeseva One", cursive;
+}
+
 .App-link {
   color: #61dafb;
 }
